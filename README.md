@@ -1,2 +1,2 @@
-Hi! This is a demo repository
+Hi! This is a demo repository.
 
