@@ -1,1 +1,2 @@
-# demo_repo
+Hi! This is a demo repository
+
